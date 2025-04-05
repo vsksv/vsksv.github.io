@@ -39,12 +39,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://vsksv.github.io/',
+    website: 'https://github.com/vsksv',
     title: 'Kevin Alfonso Villafuerte Sanchez',
     subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: '/dante-preview.jpg',
+        src: 'vs.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
