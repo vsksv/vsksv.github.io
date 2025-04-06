@@ -63,15 +63,15 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Acerda de mi',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contactame',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Terminos',
             href: '/terms'
         },
     ],
