@@ -41,6 +41,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://github.com/vsksv',
     title: 'Kevin Alfonso Villafuerte Sanchez',
+    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',
     headerNavLinks: [
         {
