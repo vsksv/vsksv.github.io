@@ -8,15 +8,15 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 :root {
-    --text-main: #171717;
+    --text-main: #4B5320;
     --bg-main: #f2f1ec;
     --bg-muted: #eae9e1;
-    --border-main: #171717;
+    --border-main: #4B5320;
 }
 html.dark {
     --text-main: #f2f1ec;
-    --bg-main: #171717;
-    --bg-muted: #242424;
+    --bg-main: #4B5320;
+    --bg-muted: #4B5320;
     --border-main: #f2f1ec;
 }
 
