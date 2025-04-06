@@ -5,7 +5,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
-@custom-variant Green (&:where(.Green, .Green *));
+@custom-variant dark (&:where(.dark, .dark *));
 
 :root {
     --text-main: #171717;
