@@ -41,19 +41,14 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://github.com/vsksv',
     title: 'Kevin Alfonso Villafuerte Sanchez',
-    subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
-    image: {
-        src: '/vs.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',   
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Presentacion',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Proyectos',
             href: '/projects'
         },
         {
@@ -103,13 +98,13 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Ponte en Contacto',
-                href: '/contact'
+                href: '/contact'                
             }
         ]
     },
     subscribe: {
-        title: 'Suscribete para recivir mis notificaciones',
-        text: 'Una actualización por semana. Recibe todas las últimas publicaciones directamente en tu bandeja de entrada.',
+        title: 'Suscribete para recibir mis notificaciones',
+        text: 'Una actualización por semana. Recibe todas mis últimas publicaciones directamente en tu bandeja de entrada.',
         formUrl: '#'
     },
     postsPerPage: 8,
