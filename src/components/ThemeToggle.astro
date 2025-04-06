@@ -9,7 +9,7 @@
 }
 
 /* Estilo para el tema verde militar */
-.military-green-theme {
+.mgreen {
     --bg-color: #4B5320;  /* verde militar */
     --text-color: white;
     --primary-color: #4B5320;  /* verde militar */
@@ -26,7 +26,7 @@ body {
 
 <button id="theme-toggle" class="w-8 h-8 -mr-2 flex items-center justify-center cursor-pointer" aria-label="Change color scheme">
     <svg class="w-4 h-4 fill-current" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="8" cy="8" r="8"></circle>
+        <box cx="8" cy="8" r="8"></box>
     </svg>
 </button>
 
@@ -34,33 +34,28 @@ body {
     document.addEventListener('astro:page-load', () => {
         const theme = (() => {
             if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
-                return localStorage.getItem('theme') || 'white';
+                return localStorage.getItem('theme') || 'light';
             }
-            return 'white'; // Valor por defecto es blanco
+            if (window.matchMedia('(prefers-color-scheme: mgreen)').matches) {
+                return 'mgreen';
+            }
+            return 'light';
         })();
 
-        // Aplicar el tema almacenado
-        if (theme === 'white') {
-            document.documentElement.classList.remove('military-green-theme');
-            document.documentElement.classList.add('white-theme');
+        if (theme === 'light') {
+            document.documentElement.classList.remove('mgreen');
         } else {
-            document.documentElement.classList.remove('white-theme');
-            document.documentElement.classList.add('military-green-theme');
+            document.documentElement.classList.add('mgreen');
         }
 
         window.localStorage.setItem('theme', theme);
 
         const handleToggleClick = () => {
             const element = document.documentElement;
-            if (element.classList.contains('white-theme')) {
-                element.classList.remove('white-theme');
-                element.classList.add('military-green-theme');
-                localStorage.setItem('theme', 'military-green');
-            } else {
-                element.classList.remove('military-green-theme');
-                element.classList.add('white-theme');
-                localStorage.setItem('theme', 'white');
-            }
+            element.classList.toggle('mgreen');
+
+            const ismgreen = element.classList.contains('mgreen');
+            localStorage.setItem('theme', isDark ? 'mgreen' : 'light');
         };
 
         document.getElementById('theme-toggle')?.addEventListener('click', handleToggleClick);
@@ -69,10 +64,8 @@ body {
 
 <script>
     document.addEventListener('astro:after-swap', () => {
-        if (localStorage.theme === 'military-green') {
-            document.documentElement.classList.add('military-green-theme');
-        } else {
-            document.documentElement.classList.add('white-theme');
+        if (localStorage.theme === 'mgreen') {
+            document.documentElement.classList.add('mgreen');
         }
     });
 </script>
