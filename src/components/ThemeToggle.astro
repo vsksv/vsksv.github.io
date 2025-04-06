@@ -14,26 +14,26 @@
             if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
                 return localStorage.getItem('theme') || 'light';
             }
-            if (window.matchMedia('(prefers-color-scheme: green)').matches) {
-                return 'green';
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                return 'dark';
             }
             return 'light';
         })();
 
         if (theme === 'light') {
-            document.documentElement.classList.remove('green');
+            document.documentElement.classList.remove('dark');
         } else {
-            document.documentElement.classList.add('green');
+            document.documentElement.classList.add('dark');
         }
 
         window.localStorage.setItem('theme', theme);
 
         const handleToggleClick = () => {
             const element = document.documentElement;
-            element.classList.toggle('green');
+            element.classList.toggle('dark');
 
-            const isgreen = element.classList.contains('green');
-            localStorage.setItem('theme', isDark ? 'green' : 'light');
+            const isDark = element.classList.contains('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
         };
 
         document.getElementById('theme-toggle')?.addEventListener('click', handleToggleClick);
@@ -42,8 +42,8 @@
 
 <script>
     document.addEventListener('astro:after-swap', () => {
-        if (localStorage.theme === 'green') {
-            document.documentElement.classList.add('green');
+        if (localStorage.theme === 'dark') {
+            document.documentElement.classList.add('dark');
         }
     });
 </script>
