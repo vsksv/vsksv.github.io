@@ -8,7 +8,7 @@ seo:
     src: '/project-3.jpg'
 ---
 
-![Project preview](/project-3.jpg)
+![Proyecto Anterior](/project-3.jpg)
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
