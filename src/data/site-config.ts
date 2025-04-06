@@ -44,7 +44,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',
     headerNavLinks: [
         {
-            text: 'Presentacion',
+            text: 'Presentación',
             href: '/'
         },
         {
