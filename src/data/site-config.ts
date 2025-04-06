@@ -95,7 +95,6 @@ const siteConfig: SiteConfig = {
          image: {
             src: '/vs.jpg',
             alt: 'A person sitting at a desk in front of a computer in a mental health ward',
-            caption:'100',
         },
         actions: [
             {
