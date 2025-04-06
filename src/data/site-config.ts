@@ -41,7 +41,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://github.com/vsksv',
     title: 'Kevin Alfonso Villafuerte Sanchez',
-    subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',   
+    subtitle: 'Bienvenidos a mi Blog Personal 👨🏻‍💻',
     headerNavLinks: [
         {
             text: 'Presentacion',
