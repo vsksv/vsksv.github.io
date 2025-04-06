@@ -92,9 +92,10 @@ const siteConfig: SiteConfig = {
     hero: {
         title: 'Hola y bienvenido a mi rincón de la web!.',
         text: "Soy **Kevin Alfonso Villafuerte Sanchez**, Analista de Sistemas y estadistico en el Centro de Salud Mental Comunitario Santiago, dedicado a los ámbitos de la creacion de reportes estadistico, creacion y mantenimiento de sistemas y aplicaciones para el manejo de informacion de los usuarios y personal de la salud mental. Mi enfoque se basa en la intuición, la investigación justa y el uso de la estética como catalizador para crear productos excepcionales. Aprecio profundamente el software de alta gama, el diseño visual y los principios del crecimiento impulsado por el producto. Explora algunos de mis proyectos de programación en <a href='https://github.com/vsksv'>GitHub</a>.",
-        image: {
+         image: {
             src: '/vs.jpg',
-            alt: 'A person sitting at a desk in front of a computer in a mental health ward'
+            alt: 'A person sitting at a desk in front of a computer in a mental health ward',
+            caption:'100',
         },
         actions: [
             {
