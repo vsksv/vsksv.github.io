@@ -8,7 +8,7 @@ seo:
     alt: me
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/vs2.jpeg)
 
 
 ## Kevin Alfonso Villafuerte Sanchez - Ing. Civil y Analista de Sistemas con sede en Cusco-Peru
