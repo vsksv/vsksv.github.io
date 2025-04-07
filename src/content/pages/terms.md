@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Términos de servicio
 seo:
   title: Terms of Service
   description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
@@ -7,7 +7,7 @@ seo:
 
 **Última actualización: 08 de Abril de 2025**
 
-Estos Términos de Servicio ("Términos") rigen su acceso y uso de [\[Nombre del Sitio Web\]](https://vsksv.github.io) ("el Sitio Web") y cualquier servicio relacionado proporcionado por [Kevin Alfonso Villafuerte Sancchez]. Lea estos Términos detenidamente antes de usar el Sitio Web.
+Estos Términos de Servicio ("Términos") rigen su acceso y uso de [https://vsksv.github.io]](https://vsksv.github.io) ("el Sitio Web") y cualquier servicio relacionado proporcionado por [Kevin Alfonso Villafuerte Sancchez]. Lea estos Términos detenidamente antes de usar el Sitio Web.
 
 **1. Aceptación de los Términos**
 
