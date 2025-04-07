@@ -1,43 +1,42 @@
 ---
-title: About
+title: Acerda de Mi
 seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/vs2.jpeg'
+    alt: me
 ---
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ethan Donovan - Web Developer based in Estonia
+## Kevin Alfonso Villafuerte Sanchez - Ing. Civil y Analista de Sistemas con sede en Cusco-Peru
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**¡Saludos👋🏼!** Soy Kevin Alfonso Villafuerte Sanchez , un apasionado de la programacion informatica👨🏻‍💻 residente en la maravillosos capital historica del Perú, [Cusco](https://es.wikipedia.org/wiki/Cuzco). Con una gran pasión por la programacion y crear experiencias digitales fluidas, aporto una combinación única de creatividad y experiencia técnica al mundo de la programacion informatica.
 
-## Skills and Expertise
+## Habilidades y Experiencia
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+Me especializo en analis de sistemas y programacion , utilizando varios lenguajes de programacion para crear programas responsivos e intuitivos. Mis competencias incluyen **HTML**, **CSS**, **JavaScript** y frameworks como **Astro.js** para interfaces de usuario dinámicas e interactivas. En cuanto al servidor, tengo un amplio dominio de Node.js y experiencia con sistemas de gestión de bases de datos como MongoDB.
 
-## Innovation and Problem-Solving
+## Innovación y Resolución de Problemas
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+Me apasiona resolver problemas complejos y transformar ideas en programas web funcionales y elegantes. Ya sea optimizando el rendimiento, implementando nuevas funciones o solucionando problemas, afronto cada desafío con entusiasmo y el compromiso de ofrecer soluciones de alta calidad.
 
-## Global Perspective, Local Impact
+## Perspectiva Global, Impacto Local
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Vivir en Cusco no solo ha influido en mi aprecio por la cultura, sino que también ha moldeado mi enfoque del desarrollo web. Entiendo la importancia de crear soluciones digitales que conecten con el público local, manteniendo una perspectiva global.
 
-## Continuous Learning
+## Aprendizaje continuo
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+El dinamismo de la industria tecnológica me inspira a mantenerme al día con las últimas tendencias y avances. Siempre estoy deseoso de ampliar mis habilidades y adoptar tecnologías emergentes que mejoren la funcionalidad y la estética de los programas que creo.
 
-## Collaboration and Communication
+## Colaboración y comunicación
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+Creo en el poder de la colaboración y la comunicación efectiva. Ya sea trabajando con clientes, diseñadores o desarrolladores, valoro la comunicación clara para garantizar el éxito de cada proyecto.
 
-## Get in Touch
+## Contáctame
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+¿Buscas mejorar tu presencia online o dar vida a tus ideas digitales? ¡Me encantaría saber de ti! No dudes en contactarme para colaborar, asesorarte o simplemente para charlar sobre programacion informatica, animes o videojuegos.
 
-_Let's build something amazing together!_
+¡Construyamos algo increíble juntos!

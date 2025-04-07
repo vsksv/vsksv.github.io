@@ -5,48 +5,49 @@ seo:
   description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
 ---
 
-**Last updated on January 11, 2024**
+**Última actualización: 08 de Abril de 2025**
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
+Estos Términos de Servicio ("Términos") rigen su acceso y uso de [\[Nombre del Sitio Web\]](https://vsksv.github.io) ("el Sitio Web") y cualquier servicio relacionado proporcionado por [Kevin Alfonso Villafuerte Sancchez]. Lea estos Términos detenidamente antes de usar el Sitio Web.
 
-**1. Acceptance of Terms**
+**1. Aceptación de los Términos**
 
-By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms or the Privacy Policy, please do not use the Website.
+Al acceder o usar el Sitio Web, usted acepta estos Términos y nuestra Política de Privacidad. Si no acepta estos Términos o la Política de Privacidad, no use el Sitio Web.
 
-**2. Changes to Terms**
+**2. Cambios en los Términos**
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+Nos reservamos el derecho de modificar, enmendar o actualizar estos Términos en cualquier momento. Dichos cambios entrarán en vigor al publicarse en el Sitio Web. Es su responsabilidad revisar estos Términos regularmente. Su uso continuado del Sitio Web después de cualquier cambio indica su aceptación de los Términos revisados.
 
-**3. Use of the Website**
+**3. Uso del Sitio Web**
 
-You agree to use the Website for lawful purposes and in a manner consistent with these Terms. You are responsible for any content you post or submit on the Website.
+Usted acepta usar el Sitio Web para fines legales y de conformidad con estos Términos. Usted es responsable de cualquier contenido que publique o envíe en el sitio web.
 
-**4. Registration and Account**
+**4. Registro y Cuenta**
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+Algunas áreas del Sitio Web pueden requerir el registro de una cuenta. Usted acepta proporcionar información precisa, actual y completa durante el proceso de registro y actualizar dicha información para mantenerla precisa, actual y completa. Usted es responsable de mantener la confidencialidad de las credenciales de su cuenta y de todas las actividades que se realicen en ella.
 
-**5. Content and Intellectual Property**
+**5. Contenido y Propiedad Intelectual**
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
+El contenido del Sitio Web, incluyendo texto, gráficos, logotipos, imágenes, audio, video, software y otros materiales, es de nuestra propiedad o está licenciado por nosotros y está protegido por derechos de autor y otras leyes de propiedad intelectual. No puede usar, reproducir ni distribuir el contenido sin nuestro consentimiento previo por escrito.
 
-**6. Third-Party Links**
+**6. Enlaces de Terceros**
 
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
+El Sitio Web puede contener enlaces a sitios web o recursos de terceros. No respaldamos ni nos hacemos responsables del contenido, los productos ni los servicios proporcionados por terceros. El uso de dichos sitios web es bajo su propio riesgo.
 
-**7. Termination**
 
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
+**7. Terminación**
 
-**8. Disclaimer**
+Podemos, a nuestra entera discreción, terminar o suspender su acceso al Sitio Web en cualquier momento y por cualquier motivo, sin previo aviso.
 
-The Website and its content are provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content. We do not guarantee that the Website will be error-free or uninterrupted.
+**8. Descargo de Responsabilidad**
 
-**9. Limitation of Liability**
+El Sitio Web y su contenido se proporcionan "tal cual" y "según disponibilidad". No ofrecemos garantías ni declaraciones sobre la exactitud o integridad del contenido. No garantizamos que el Sitio Web esté libre de errores o que no sufra interrupciones.
 
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
+**9. Limitación de Responsabilidad**
 
-**10. Governing Law**
+En la medida máxima permitida por la ley, no seremos responsables de ningún daño directo, indirecto, incidental, especial, consecuente o ejemplar, incluyendo, entre otros, daños por lucro cesante, lucro cesante, pérdida de uso, datos u otras pérdidas intangibles, que surjan de o estén relacionadas con el uso o la imposibilidad de usar el Sitio Web.
 
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
+**10. Ley Aplicable**
 
-_Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._
+Estos Términos se rigen e interpretan de conformidad con las leyes de Perú o de Su Jurisdicción, sin perjuicio de sus principios de conflicto de leyes. Cualquier controversia derivada de estos Términos se someterá a la jurisdicción exclusiva de los tribunales de Su Jurisdicción.
+
+Gracias por leer nuestros Términos de Servicio. Al utilizar el Sitio Web, usted acepta estos Términos.
