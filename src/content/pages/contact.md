@@ -11,4 +11,4 @@ Correo electrónico:
 Escríbeme a 📧[nivek9021@gmail.com](mailto:nivek9021@gmail.com) y haré todo lo posible por responderte lo antes posible.
 
 Redes sociales:
-Sígueme también en redes sociales. Encuéntrame en (https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)[Twitter](https://x.com/nivek9021) o [LinkedIn](https://www.linkedin.com/in/vsksv/).
+Sígueme también en redes sociales. Encuéntrame en 🐦‍⬛[Twitter](https://x.com/nivek9021) o 🌐[LinkedIn](https://www.linkedin.com/in/vsksv/).
