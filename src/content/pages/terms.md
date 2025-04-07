@@ -7,7 +7,7 @@ seo:
 
 **Última actualización: 08 de Abril de 2025**
 
-Estos Términos de Servicio rigen su acceso y uso de [https://vsksv.github.io](https://vsksv.github.io) y cualquier servicio relacionado proporcionado por [Kevin Alfonso Villafuerte Sancchez](https://vsksv.github.io/about/). Lea estos Términos detenidamente antes de usar el Sitio Web.
+Estos Términos de Servicio rigen su acceso y uso de [https://vsksv.github.io](https://vsksv.github.io) y cualquier servicio relacionado proporcionado por [Kevin Alfonso Villafuerte Sanchez](https://vsksv.github.io/about/). Lea estos Términos detenidamente antes de usar el Sitio Web.
 
 **1. Aceptación de los Términos**
 

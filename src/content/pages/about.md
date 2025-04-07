@@ -13,7 +13,7 @@ seo:
 
 ## Kevin Alfonso Villafuerte Sanchez - Ing. Civil y Analista de Sistemas con sede en Cusco-Peru
 
-**¡Saludos👋🏼!** Soy Kevin Alfonso Villafuerte Sanchez , un apasionado de la programacion informatica👨🏻‍💻 residente en la maravillosos capital historica del Perú, [Cusco](https://es.wikipedia.org/wiki/Cuzco) 🌎. Con una gran pasión por la programacion y crear experiencias digitales fluidas, aporto una combinación única de creatividad y experiencia técnica al mundo de la programacion informatica.
+**¡Saludos👋🏼!** Soy Kevin Alfonso Villafuerte Sanchez , un apasionado de la programacion informatica👨🏻‍💻 residente en la maravillosa capital historica del Perú, [Cusco](https://es.wikipedia.org/wiki/Cuzco) 🌎. Con una gran pasión por la programacion y crear experiencias digitales fluidas, aporto una combinación única de creatividad y experiencia técnica al mundo de la programacion informatica.
 
 ## Habilidades y Experiencia 
 

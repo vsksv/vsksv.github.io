@@ -78,7 +78,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'Linkedin',
-            href: 'www.linkedin.com/in/vsksv'
+            href: 'https://www.linkedin.com/in/vsksv/'
         },
         {
             text: 'Instagram',
